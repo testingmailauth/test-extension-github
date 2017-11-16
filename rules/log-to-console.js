@@ -3,5 +3,6 @@ function (user, context, callback) {
   //test
   //test
   //test
+  //config
   callback(null, user, context);
 }
